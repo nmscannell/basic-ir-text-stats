@@ -1,0 +1,21 @@
+How Safe is Safe Enough?  Quantifying Radiation Damage
+
+The main focus of JSC’s Radiation Biophysics Laboratory is to conduct fundamental research to expand the
+knowledge base and reduce the uncertainty in health risks from exposure to space radiation. In addition,
+computer models and computational tools are being developed to assist in the projection of astronauts’ risk
+of cancer and acute radiation syndrome. Scientists associated with the Human Research Program (HRP) conduct
+ground based studies using an accelerator-based simulation of space radiation at the NASA Space Radiation
+Laboratory (NSRL) facilities at Brookhaven, NY. Biological samples are irradiated at these facilities and
+transported back to the laboratory for analysis at the molecular and cellular level. Results of these studies
+are used to understand the biological effects of space radiation, guide future studies and validate the output
+of the computational models.
+
+Technology and Hardware used to analyze cellular and molecular changes include:
+
+    Fluorescent microscopes
+    Tissue culture facilities
+    Flow cytometry equipment
+    Cytogenetic image and analysis equipment
+    Radiobiological data
+    Radiation projection models
+    Computational tools to assess and project crew risk of cancer and acute radiation syndrome from space radiation

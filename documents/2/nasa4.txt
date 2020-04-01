@@ -1,0 +1,24 @@
+Continuous Monitoring: 24/7/365
+
+The Space Radiation Analysis Group (SRAG) at Johnson Space Center (JSC) supports human exploration by keeping
+crew members within acceptable levels of risk from space radiation. This includes continuous solar radiation
+environmental monitoring and manned spaceflight operations support 24 hours every day. In addition, SRAG also
+provides evaluation of radiological safety with respect to exposure to isotopes and radiation producing
+equipment carried on the spacecraft.
+
+Another method of monitoring utilizes dosimeters, sometimes in the form of badges worn by the crewmembers.
+These dosimeters measure radiation and are returned to the ground for analysis. The SRAG Space Radiation
+Dosimetry Laboratory maintains state-of-the-art analysis systems for multiple types of dosimeters including:
+thermoluminescent dosimeters (TLD), optically stimulated dosimeters (OSLDs), and plastic nuclear track detectors
+(PNTDs). All preflight assembly and postflight analysis of the dosimeters are conducted in the lab and the SRAG
+team supports training sessions to familiarize the crew with the equipment.
+
+Technology and Hardware used for monitoring and assessing radiation include:
+
+    Time-resolved models of the Earth's magnetic field
+    Maps of the radiation fluxes trapped in the geomagnetic-sphere
+    Trajectory translator/propagator algorithms
+    Tissue Equivalent Proportional Counter (TEPC)
+    Charged Particle Directional Spectrometer (CPDS)
+    Radiation Area Monitor (RAM)
+    Crew Passive Dosimeter (CPD)

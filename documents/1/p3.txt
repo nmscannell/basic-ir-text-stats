@@ -1,0 +1,4 @@
+To examine the effectiveness of the guidelines, twelve annotators independently annotated the
+same set of 101 sentences that were randomly selected from current biomedical periodicals.
+Analysis of these annotations shows 70–80% inter-annotator agreement, suggesting that our
+guidelines indeed present a well-defined, executable and reproducible task.

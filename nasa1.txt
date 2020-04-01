@@ -1,0 +1,13 @@
+Spacewalks, also known as Extravehicular Activities or EVAs, are an important aspect of space exploration.
+The Extravehicular Mobility Unit (EMU) that crewmembers wear provides life support, atmospheric containment,
+thermal insulation, cooling, solar radiation protection and Micrometeroroid/Orbital Debris (MMOD) protection during
+an EVA. One medical condition that can occur during a spacewalk is Decompression Sickness (DCS). Spaceflight DCS
+is the result of inadequate denitrogenation prior to an EVA. The EMU is maintained at a significantly lower pressure
+than the ambient pressure of the International Space Station (ISS). To prevent DCS, astronauts pre-breathe 100%
+Oxygen (O2) to displace Nitrogen (N2) in their tissues. This pre-breathe prevents the formation of N2 gas bubbles,
+which can cause localized joint pain, or, in the worst cases, severe cardiopulmonary and neurologic symptoms.
+
+The Human Health and Performance (HH&P) Directorate's EVA Physiology team conducts research to develop pre-breathe
+protocols with shorter preparation time while reducing or preventing DCS. EVA Physiology scientists and engineers
+develop and test the protocols, support crew training, and develop standards that are included in the NASA Standard
+3001 Volume 1, Crew Health Standards.

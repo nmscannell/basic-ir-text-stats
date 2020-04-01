@@ -1,0 +1,9 @@
+Conclusion: We present our guidelines defining a text annotation task, along with annotation
+results from multiple independently produced annotations, demonstrating the feasibility of the task.
+The annotation of a very large corpus of documents along these guidelines is currently ongoing.
+These annotations form the basis for the categorization of text along multiple dimensions, to
+support viable text mining for experimental results, methodology statements, and other forms of
+information. We are currently developing machine learning methods, to be trained and tested on
+the annotated corpus, that would allow for the automatic categorization of biomedical text along
+the general dimensions that we have presented. The guidelines in full detail, along with annotated
+examples, are publicly available.

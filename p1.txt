@@ -1,0 +1,8 @@
+Background: While biomedical text mining is emerging as an important research area, practical
+results have proven difficult to achieve. We believe that an important first step towards more
+accurate text-mining lies in the ability to identify and characterize text that satisfies various types
+of information needs. We report here the results of our inquiry into properties of scientific text
+that have sufficient generality to transcend the confines of a narrow subject area, while supporting
+practical mining of text for factual information. Our ultimate goal is to annotate a significant corpus
+of biomedical text and train machine learning methods to automatically categorize such text along
+certain dimensions that we have defined.

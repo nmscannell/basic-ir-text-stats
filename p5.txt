@@ -1,0 +1,29 @@
+Text is the predominant medium for
+information exchange among experts.
+The volume of biomedical literature is
+increasing at such a rate that it is difficult
+to efficiently locate, retrieve and manage
+relevant information without the use of
+text-mining applications. In order
+to share the vast amounts of biomedical
+knowledge effectively, textual evidence
+needs to be linked to ontologies as the
+main repositories of formally represented
+knowledge. Ontologies are conceptual
+models that aim to support consistent and
+unambiguous knowledge sharing and that
+provide a framework for knowledge
+integration. An ontology links concept
+labels to their interpretations, ie
+specifications of their meanings including
+concept definitions and relations to other
+concepts. Apart from relations such as isa
+and part-of, generally present in almost
+any domain, ontologies also model
+domain-specific relations, eg has-location,
+clinically-associated-with and hasmanifestation
+are relations specific for the
+biomedical domain. Therefore, ontologies
+reflect the structure of the domain and
+constrain the potential interpretations of
+terms.

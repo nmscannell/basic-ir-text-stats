@@ -1,0 +1,8 @@
+Preparing Astronauts for Spacewalks
+
+The EVA Physiology team provides operations support for EVAs conducted by astronauts aboard the ISS.
+Astronauts are trained using individualized exercise prescriptions for the In-Suit Light Exercise (ISLE)
+pre-breathe protocol. Suited metabolic rate characterizations are completed during EVA training in the Neutral
+Buoyancy Laboratory (NBL) pool. Scientists and engineers also perform suit and life support system hardware
+development and testing, including evaluations of suit ventilation for carbon dioxide washout, metabolic rate
+measurement for suited evaluations and integrated testing of the portable life support system.

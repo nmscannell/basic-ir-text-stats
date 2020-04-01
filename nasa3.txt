@@ -1,0 +1,12 @@
+Protecting Against the Unseen
+
+Radiation exposure incurred during space exploration is one of the greatest threats to an astronaut’s health.
+The associated risks include, carcinogenesis, degenerative tissue effects, central nervous system effects, and
+acute radiation syndromes. The radiation environment outside of Earth's protective atmosphere is comprised of
+energetic protons and heavy nuclei that pose a hazard to living organisms. The damage caused by energetic nuclei
+has been shown to produce distinct biological damage compared with radiation on Earth, leading to large
+uncertainties in the projection of health risks and obscuring evaluation of the effectiveness of possible
+radiation countermeasures. Although information exists to recommend crew exposure limits and spacecraft design
+requirements for missions in low Earth orbit, there is insufficient knowledge of the health effects of space
+radiation and the space radiation environment to provide recommendations on crew exposure limits and design
+requirements for long-duration missions.

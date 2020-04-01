@@ -1,0 +1,4 @@
+Results: We have identified five qualitative dimensions that we believe characterize a broad range
+of scientific sentences, and are therefore useful for supporting a general approach to text-mining:
+focus, polarity, certainty, evidence, and directionality. We define these dimensions and describe the
+guidelines we have developed for annotating text with regard to them.

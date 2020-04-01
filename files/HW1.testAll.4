@@ -1,0 +1,134 @@
+Processed corpus 2 given a file containing filenames in the local directory: files2.txt.
+
+Documents processed: ['nasa1.txt', 'nasa2.txt', 'nasa3.txt', 'nasa4.txt', 'nasa5.txt']
+
+Testing get_fname for each of the documents: 
+1: nasa1.txt
+2: nasa2.txt
+3: nasa3.txt
+4: nasa4.txt
+5: nasa5.txt
+
+Choosing 10 random unigrams in corpus...
+
+Testing query for unigrams in corpus 2 and returning doc IDs: 
+assembly:  4
+measure:  4
+an:  3 5 1
+future:  5
+oxygen:  1
+24:  4
+test:  1
+projection:  3 5
+information:  3
+proportional:  4
+
+Testing query for unigrams in corpus 2 and returning filenames: 
+assembly:  nasa4.txt
+measure:  nasa4.txt
+an:  nasa3.txt nasa5.txt nasa1.txt
+future:  nasa5.txt
+oxygen:  nasa1.txt
+24:  nasa4.txt
+test:  nasa1.txt
+projection:  nasa3.txt nasa5.txt
+information:  nasa3.txt
+proportional:  nasa4.txt
+
+Choosing 10 random bigrams in corpus...
+
+Testing query for bigrams in corpus 2 and returning doc IDs: 
+image and:  5
+a spacewalk:  1
+earth's protective:  3
+area monitor:  4
+hardware development:  2
+culture facilities:  5
+models technology:  5
+of n2:  1
+severe cardiopulmonary:  1
+protecting against:  3
+
+Testing query for bigrams in corpus 2 and returning filenames: 
+image and:  nasa5.txt
+a spacewalk:  nasa1.txt
+earth's protective:  nasa3.txt
+area monitor:  nasa4.txt
+hardware development:  nasa2.txt
+culture facilities:  nasa5.txt
+models technology:  nasa5.txt
+of n2:  nasa1.txt
+severe cardiopulmonary:  nasa1.txt
+protecting against:  nasa3.txt
+
+Retrieving top 10 unigrams in document 4 (using doc ID as integer): 
+dosimeters
+monitoring
+srag
+analysis
+continuous
+supports
+radiation
+equipment
+24/7/365
+group
+
+Retrieving top 10 unigrams in document 4 (using doc ID as string): 
+dosimeters
+monitoring
+srag
+analysis
+continuous
+supports
+radiation
+equipment
+24/7/365
+group
+
+Retrieving top 10 unigrams in document nasa4.txt (using filename): 
+dosimeters
+monitoring
+srag
+analysis
+continuous
+supports
+radiation
+equipment
+24/7/365
+group
+
+Retrieving top 10 bigrams in document 2 (using doc ID as integer): 
+metabolic rate
+support system
+life support
+preparing astronauts
+astronauts for
+for spacewalks
+spacewalks the
+the eva
+team provides
+provides operations
+
+Retrieving top 10 bigrams in document 2 (using doc ID as string): 
+metabolic rate
+support system
+life support
+preparing astronauts
+astronauts for
+for spacewalks
+spacewalks the
+the eva
+team provides
+provides operations
+
+Retrieving top 10 bigrams in document nasa2.txt (using filename): 
+metabolic rate
+support system
+life support
+preparing astronauts
+astronauts for
+for spacewalks
+spacewalks the
+the eva
+team provides
+provides operations

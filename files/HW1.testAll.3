@@ -1,0 +1,134 @@
+Processed corpus 2 given a directory path: documents/2.
+
+Documents processed: ['nasa1.txt', 'nasa2.txt', 'nasa3.txt', 'nasa4.txt', 'nasa5.txt']
+
+Testing get_fname for each of the documents: 
+1: nasa1.txt
+2: nasa2.txt
+3: nasa3.txt
+4: nasa4.txt
+5: nasa5.txt
+
+Choosing 10 random unigrams in corpus...
+
+Testing query for unigrams in corpus 2 and returning doc IDs: 
+crewmembers:  1 4
+extravehicular:  1
+portable:  2
+during:  2 3 1
+translator/propagator:  4
+international:  1
+center:  4
+requirements:  3
+hardware:  2 4 5
+spacewalk:  1
+
+Testing query for unigrams in corpus 2 and returning filenames: 
+crewmembers:  nasa1.txt nasa4.txt
+extravehicular:  nasa1.txt
+portable:  nasa2.txt
+during:  nasa2.txt nasa3.txt nasa1.txt
+translator/propagator:  nasa4.txt
+international:  nasa1.txt
+center:  nasa4.txt
+requirements:  nasa3.txt
+hardware:  nasa2.txt nasa4.txt nasa5.txt
+spacewalk:  nasa1.txt
+
+Choosing 10 random bigrams in corpus...
+
+Testing query for bigrams in corpus 2 and returning doc IDs: 
+research program:  5
+scientists and:  1 2
+output of:  5
+radiation biophysics:  5
+a spacewalk:  1
+including thermoluminescent:  4
+are used:  5
+assessing radiation:  4
+outside of:  3
+radiation environment:  3
+
+Testing query for bigrams in corpus 2 and returning filenames: 
+research program:  nasa5.txt
+scientists and:  nasa1.txt nasa2.txt
+output of:  nasa5.txt
+radiation biophysics:  nasa5.txt
+a spacewalk:  nasa1.txt
+including thermoluminescent:  nasa4.txt
+are used:  nasa5.txt
+assessing radiation:  nasa4.txt
+outside of:  nasa3.txt
+radiation environment:  nasa3.txt
+
+Retrieving top 10 unigrams in document 4 (using doc ID as integer): 
+dosimeters
+monitoring
+srag
+analysis
+continuous
+supports
+radiation
+equipment
+24/7/365
+group
+
+Retrieving top 10 unigrams in document 4 (using doc ID as string): 
+dosimeters
+monitoring
+srag
+analysis
+continuous
+supports
+radiation
+equipment
+24/7/365
+group
+
+Retrieving top 10 unigrams in document nasa4.txt (using filename): 
+dosimeters
+monitoring
+srag
+analysis
+continuous
+supports
+radiation
+equipment
+24/7/365
+group
+
+Retrieving top 10 bigrams in document 2 (using doc ID as integer): 
+metabolic rate
+support system
+life support
+preparing astronauts
+astronauts for
+for spacewalks
+spacewalks the
+the eva
+team provides
+provides operations
+
+Retrieving top 10 bigrams in document 2 (using doc ID as string): 
+metabolic rate
+support system
+life support
+preparing astronauts
+astronauts for
+for spacewalks
+spacewalks the
+the eva
+team provides
+provides operations
+
+Retrieving top 10 bigrams in document nasa2.txt (using filename): 
+metabolic rate
+support system
+life support
+preparing astronauts
+astronauts for
+for spacewalks
+spacewalks the
+the eva
+team provides
+provides operations
